@@ -8,9 +8,9 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve --open --host localhost --port 1010",
+    "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "dev": "npm run serve"
+    "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "ant-design-vue": "1.7.6",
